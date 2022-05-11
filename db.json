@@ -1,0 +1,258 @@
+{
+    "studentData" : [
+        {
+            "id"     : 1,
+            "name"   : "Asif Hasan",
+            "class"  : "Six",
+            "roll"   : 2,
+            "gender" : "Male",
+            "marks"  : {
+                "bangla"   : 60,
+                "english"  : 55,
+                "math"     : 65,
+                "chemistry": 50,
+                "biology"  : 50,
+                "physics"  : 70,
+                "Ict"      : 70
+            }
+        },
+        {
+            "id"     : 2,
+            "name"   : "Mim Hasan",
+            "class"  : "Four",
+            "roll"   : 1,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 50,
+                "english"  : 75,
+                "math"     : 85,
+                "chemistry": 40,
+                "biology"  : 50,
+                "physics"  : 60,
+                "Ict"      : 50
+            }
+        },
+        {
+            "id"     : 3,
+            "name"   : "Moyna",
+            "class"  : "Eight",
+            "roll"   : 3,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 60,
+                "english"  : 55,
+                "math"     : 85,
+                "chemistry": 50,
+                "biology"  : 50,
+                "physics"  : 60,
+                "Ict"      : 80
+            }
+        },
+        {
+            "id"     : 4,
+            "name"   : "Shakila",
+            "class"  : "Six",
+            "roll"   : 5,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 80,
+                "english"  : 55,
+                "math"     : 55,
+                "chemistry": 80,
+                "biology"  : 50,
+                "physics"  : 60,
+                "Ict"      : 70
+            }
+        },
+        {
+            "id"     : 5,
+            "name"   : "Hafsa",
+            "class"  : "Nine",
+            "roll"   : 2,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 80,
+                "english"  : 55,
+                "math"     : 65,
+                "chemistry": 80,
+                "biology"  : 50,
+                "physics"  : 60,
+                "Ict"      : 60
+            }
+        },
+        {
+            "id"     : 6,
+            "name"   : "Tamanna",
+            "class"  : "Two",
+            "roll"   : 9,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 60,
+                "english"  : 85,
+                "math"     : 75,
+                "chemistry": 60,
+                "biology"  : 50,
+                "physics"  : 80,
+                "Ict"      : 70
+            }
+        },
+        {
+            "id"     : 7,
+            "name"   : "Sony",
+            "class"  : "Three",
+            "roll"   : 4,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 60,
+                "english"  : 55,
+                "math"     : 65,
+                "chemistry": 56,
+                "biology"  : 50,
+                "physics"  : 78,
+                "Ict"      : 70
+            }
+        },
+        {
+            "id"     : 8,
+            "name"   : "Rahim",
+            "class"  : "Four",
+            "roll"   : 3,
+            "gender" : "Male",
+            "marks"  : {
+                "bangla"   : 80,
+                "english"  : 75,
+                "math"     : 65,
+                "chemistry": 50,
+                "biology"  : 80,
+                "physics"  : 70,
+                "Ict"      : 40
+            }
+        },
+        {
+            "id"     : 9,
+            "name"   : "Munna",
+            "class"  : "Five",
+            "roll"   : 2,
+            "gender" : "Male",
+            "marks"  : {
+                "bangla"   : 80,
+                "english"  : 55,
+                "math"     : 45,
+                "chemistry": 50,
+                "biology"  : 70,
+                "physics"  : 70,
+                "Ict"      : 80
+            }
+        },
+        {
+            "id"     : 10,
+            "name"   : "Tanisha",
+            "class"  : "Four",
+            "roll"   : 8,
+            "gender" : "Female",
+            "marks"  : {
+                "bangla"   : 80,
+                "english"  : 55,
+                "math"     : 65,
+                "chemistry": 80,
+                "biology"  : 50,
+                "physics"  : 80,
+                "Ict"      : 60
+            }
+        }
+    ],
+
+    "teacherData"     : [
+        {
+            "id"      : 1,
+            "name"    : "Mannan",
+            "age"     : 40,
+            "gender"  : "Male",
+            "skill"   : "Bsc",
+            "phone"   : "01700 000000",
+            "location": "Gulsan"
+        },
+        {
+            "id"      : 2,
+            "name"    : "Mahbub",
+            "age"     : 60,
+            "gender"  : "Male",
+            "skill"   : "Msc",
+            "phone"   : "01700 000000",
+            "location": "Badda"
+        },
+        {
+            "id"      : 3,
+            "name"    : "Reza",
+            "age"     : 60,
+            "gender"  : "Male",
+            "skill"   : "Bsc",
+            "phone"   : "01700 000000",
+            "location": "Banani"
+        },
+        {
+            "id"      : 4,
+            "name"    : "Tasir",
+            "age"     : 60,
+            "gender"  : "Male",
+            "skill"   : "Bsc",
+            "phone"   : "01700 000000",
+            "location": "gulsan"
+        },
+        {
+            "id"      : 5,
+            "name"    : "Mizan",
+            "age"     : 60,
+            "gender"  : "Male",
+            "skill"   : "Msc",
+            "phone"   : "01700 000000",
+            "location": "Dhanmondi"
+        },
+        {
+            "id"      : 6,
+            "name"    : "Mukter",
+            "age"     : 55,
+            "gender"  : "Male",
+            "skill"   : "Msc",
+            "phone"   : "01700 000000",
+            "location": "Gulsan"
+        },
+        {
+            "id"      : 7,
+            "name"    : "Sharmin",
+            "age"     : 35,
+            "gender"  : "Female",
+            "skill"   : "Bsc",
+            "phone"   : "01700 000000",
+            "location": "Romna"
+        },
+        {
+            "id"      : 8,
+            "name"    : "Nasrin",
+            "age"     : 40,
+            "gender"  : "Female",
+            "skill"   : "Bsc",
+            "phone"   : "01700 000000",
+            "location": "Badda"
+        },
+        {
+            "id"      : 9,
+            "name"    : "Altaf",
+            "age"     : 70,
+            "gender"  : "Male",
+            "skill"   : "Msc",
+            "phone"   : "01700 000000",
+            "location": "Dhamondi"
+        },
+        {
+            "id"      : 10,
+            "name"    : "Moumi",
+            "age"     : 35,
+            "gender"  : "Female",
+            "skill"   : "Msc",
+            "phone"   : "01700 000000",
+            "location": "Romna"
+        }
+        
+    ]
+}
